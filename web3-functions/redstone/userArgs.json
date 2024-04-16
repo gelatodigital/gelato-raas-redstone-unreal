@@ -1,0 +1,6 @@
+{ 
+"priceFeed":"XAU",
+"priceFeedAdapterAddress":" 0x9ebdA09DE384650aA51f572ECE839608F4a09e28",
+"intervalInMin": "5",
+"deviationThreshold":"0.5"
+}

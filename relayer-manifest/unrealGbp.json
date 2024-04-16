@@ -1,0 +1,15 @@
+{
+    "chain": {
+      "name": "unreal",
+      "id": 18233
+    },
+    "updateTriggers": {
+      "deviationPercentage": 0.15,
+      "timeSinceLastUpdateInMilliseconds": 86400000
+    },
+    "adapterContract": "0xC603180D79a5Afa341A59134d126fC72Bcd19283",
+    "dataServiceId": "redstone-primary-prod",
+    "priceFeeds": {
+      "GBP": "0xC603180D79a5Afa341A59134d126fC72Bcd19283"
+    }
+  }
