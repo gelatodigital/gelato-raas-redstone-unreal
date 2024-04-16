@@ -7,9 +7,9 @@
       "deviationPercentage": 0.15,
       "timeSinceLastUpdateInMilliseconds": 86400000
     },
-    "adapterContract": "0x47dbAdaE62dE1C18628F24C031d987862aAe72c8",
+    "adapterContract": "0x454ee707F0e0745b2579D715F3B796B980aF272d",
     "dataServiceId": "redstone-primary-prod",
     "priceFeeds": {
-      "GBP": "0x47dbAdaE62dE1C18628F24C031d987862aAe72c8"
+      "GBP": "0x454ee707F0e0745b2579D715F3B796B980aF272d"
     }
   }
